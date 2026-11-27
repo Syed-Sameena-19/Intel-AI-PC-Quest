@@ -2,7 +2,7 @@
 
 An interactive in-store game built for the **Intel 1 Million Minds** challenge (Round 1).
 
-**Play it here:** https://syed-sameena-19.github.io/Intel-Game-/
+**Play it here:** https://syed-sameena-19.github.io/Intel-AI-PC-Quest/
 
 ## The problem
 Gen Z shoppers use AI every day, but in Large Format Retail stores like Croma, Reliance Digital and Vijay Sales they often choose a laptop by colour and price, not by what will keep performing for years.
